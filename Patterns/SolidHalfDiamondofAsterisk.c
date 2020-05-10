@@ -4,6 +4,7 @@ int main(){
     int height,inc=1;
     printf("Enter the height of the diamond\n");
     scanf("%d",&height);
+    printf("\n");
     for(int i=1;i<(height*2);i++){
         for(int j=1;j<=inc;j++){
             printf("* ");

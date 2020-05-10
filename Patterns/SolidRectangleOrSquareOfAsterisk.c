@@ -6,6 +6,7 @@ int main(){
     scanf("%d",&length);
     printf("Enter the breadth\n");
     scanf("%d",&breadth);
+    printf("\n");
     for(int i=0;i<breadth;i++){
         for(int j=0;j<length;j++){
             printf("* ");
