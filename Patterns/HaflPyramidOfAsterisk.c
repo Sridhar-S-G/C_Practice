@@ -1,3 +1,19 @@
+/*
+
+Input: 
+5
+
+Output:
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+
+
+*/
+
+
 #include<stdio.h>
 
 int main(){
